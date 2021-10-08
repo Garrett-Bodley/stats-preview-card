@@ -4,14 +4,17 @@
   box-sizing: border-box;
 }
 
-html, body, #root, .App {
+html,
+body,
+#root,
+.App {
   min-height: 100vh;
   margin: 0;
 }
 
-html {
-  --font-primary: 'Inter', sans-serif;
-  --font-secondary: 'Lexend Deca', sans-serif;
+:root {
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Lexend Deca", sans-serif;
   --main-bg-color: hsl(233, 47%, 7%);
   --card-bg-color: hsl(244, 38%, 16%);
   --accent: hsl(277, 64%, 61%);
