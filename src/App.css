@@ -9,4 +9,9 @@
   font-size: 15px;
   --font-primary: 'Inter', sans-serif;
   --font-secondary: 'Lexend Deca', sans-serif;
+  --card-bg-color: hsl(244, 38%, 16%);
+  --accent: hsl(277, 64%, 61%);
+  --font-color-main: hsl(0, 0%, 100%);
+  --font-color-paragraph: hsla(0, 0%, 100%, 0.75);
+  --font-color-stats-heading: hsla(0, 0%, 100%, 0.6);
 }
