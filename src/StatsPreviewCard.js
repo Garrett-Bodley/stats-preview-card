@@ -1,4 +1,5 @@
 import React from "react";
+import './statspreviewcard.css'
 
 const StatsPreviewCard = () => {
   return (
